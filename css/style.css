@@ -9,6 +9,10 @@ div {
     font-size: 100px;
 }
 
+body>div:nth-child(1) {
+    margin-bottom: 100px;
+}
+
 a {
     font-size: 100px;
 }
